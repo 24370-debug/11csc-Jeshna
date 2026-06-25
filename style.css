@@ -9,7 +9,6 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
-}
 
 nav {
     background-color: #333;
@@ -45,6 +44,5 @@ footer {
     margin-top: 20px;
 }
 body {
-  background-color: lightgrey;
+  background-color: ForestGreen;
 }
-
